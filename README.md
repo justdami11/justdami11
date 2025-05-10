@@ -9,19 +9,13 @@
   </a>
 </div>
 
-###
-
 <h2 align="left"><Tools></h2>
-
-###
 
 <div align="center">
   <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="typescript logo"  />
 </div>
-
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
@@ -33,11 +27,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="40" alt="jupyter logo"  />
 </div>
 
-###
-
 <h2 align="left"><Stats></h2>
-
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=justdami11&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
