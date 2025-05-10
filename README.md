@@ -1,4 +1,4 @@
-<h3 align="center">Sudo pacman -S justdami11</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=sudo+pacman+-S+justdami11" alt="Typing SVG" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
