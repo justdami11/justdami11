@@ -1,4 +1,4 @@
-I'm Justin Damito
+# I'm Justin Damito
 
 **Self-taught Data Scientist** | **Machine Learning Enthusiast** | **Python Developer**
 
