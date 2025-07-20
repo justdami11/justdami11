@@ -1,37 +1,34 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=sudo+pacman+-S+justdami11" alt="Typing SVG" /></a>
+# 👋 Hi there, I'm Justin David Damito Sanchez
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/justin-david-d%C3%A1mito-s%C3%A1nchez-aa5049313/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="justindamitosa1105@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
-  </a>
-</div>
+**Self-taught Data Scientist** | **Machine Learning Enthusiast** | **Python Developer**
 
-<h2 align="left"><Tools></h2>
+---
 
-<div align="center">
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="typescript logo"  />
-</div>
+🎯 I'm deeply passionate about using **data science** and **artificial intelligence** to solve real-world problems and drive innovation. As a self-learner, I’ve dedicated myself to mastering the core tools and techniques of the field, with a strong foundation in Python and statistical analysis.
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="40" alt="jupyter logo"  />
-</div>
+📚 I'm currently focused on expanding my knowledge in **machine learning**, **deep learning**, and **AI systems** while building a portfolio of meaningful projects.
 
-<h2 align="left"><Stats></h2>
+🛠️ **Tech Stack**
+- **Languages:** Python, SQL, R  
+- **Libraries & Frameworks:** Pandas, NumPy, Scikit-learn, TensorFlow  
+- **Data Tools:** Jupyter Notebook, PostgreSQL, Excel  
+- **Systems & Tools:** Git, Arch Linux  
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=justdami11&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=justdami11&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+---
 
-###
+📊 **GitHub Stats**
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=justindamito&show_icons=true&hide_title=true&theme=graywhite" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justindamito&layout=compact&theme=graywhite" />
+</p>
+
+---
+
+📫 **Get in Touch**
+- ✉️ Email: [justindamitosa1105@gmail.com](mailto:justindamitosa1105@gmail.com)  
+- 🔗 LinkedIn: [Justin David Dámito Sánchez](https://www.linkedin.com/in/justin-david-d%C3%A1mito-s%C3%A1nchez-aa5049313/)
+
+---
+
+🧠 _"Learning is my tool, data is my material, and AI is my craft."_
+
