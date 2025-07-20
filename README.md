@@ -1,6 +1,8 @@
-# 👋 Hi there, I'm Justin David Damito Sanchez
+I'm Justin Damito
 
 **Self-taught Data Scientist** | **Machine Learning Enthusiast** | **Python Developer**
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=sudo+pacman+-S+justdami11" alt="Typing SVG" /></a>
 
 ---
 
@@ -16,17 +18,18 @@
 
 ---
 
-📊 **GitHub Stats**
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=justindamito&show_icons=true&hide_title=true&theme=graywhite" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justindamito&layout=compact&theme=graywhite" />
-</p>
-
----
 
 📫 **Get in Touch**
-- ✉️ Email: [justindamitosa1105@gmail.com](mailto:justindamitosa1105@gmail.com)  
-- 🔗 LinkedIn: [Justin David Dámito Sánchez](https://www.linkedin.com/in/justin-david-d%C3%A1mito-s%C3%A1nchez-aa5049313/)
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/justin-david-d%C3%A1mito-s%C3%A1nchez-aa5049313/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="justindamitosa1105@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
 
 ---
 
