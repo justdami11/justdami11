@@ -8,7 +8,13 @@
 
 🎯 I'm deeply passionate about using **data science** and **artificial intelligence** to solve real-world problems and drive innovation. As a self-learner, I’ve dedicated myself to mastering the core tools and techniques of the field, with a strong foundation in Python and statistical analysis.
 
+
+---
+
 📚 I'm currently focused on expanding my knowledge in **machine learning**, **deep learning**, and **AI systems** while building a portfolio of meaningful projects.
+
+
+---
 
 🛠️ **Tech Stack**
 - **Languages:** Python, SQL, R  
@@ -21,14 +27,15 @@
 
 📫 **Get in Touch**
 
-<div align="center">
+<div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap; padding: 10px 0;">
   <a href="https://www.linkedin.com/in/justin-david-d%C3%A1mito-s%C3%A1nchez-aa5049313/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo" />
   </a>
-  <a href="justindamitosa1105@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
+  <a href="mailto:justindamitosa1105@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo" />
   </a>
 </div>
+
 
 
 ---
