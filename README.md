@@ -26,16 +26,8 @@
 
 
 📫 **Get in Touch**
-
-<div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap; padding: 10px 0;">
-  <a href="https://www.linkedin.com/in/justin-david-d%C3%A1mito-s%C3%A1nchez-aa5049313/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo" />
-  </a>
-  <a href="mailto:justindamitosa1105@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo" />
-  </a>
-</div>
-
+- ✉️ Email: [justindamitosa1105@gmail.com](mailto:justindamitosa1105@gmail.com)  
+- 🔗 LinkedIn: [Justin David Dámito Sánchez](https://www.linkedin.com/in/justin-david-d%C3%A1mito-s%C3%A1nchez-aa5049313/)
 
 
 ---
